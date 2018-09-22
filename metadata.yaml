@@ -1,0 +1,29 @@
+_repo: The-Young-Train-Master_55880
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Goss, Henry
+    gutenberg_agent_id: '48560'
+    url: http://www.gutenberg.org/2009/agents/48560
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
+description: ''
+gutenberg_issued: '2017-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Young Train Master
+url: http://www.gutenberg.org/ebooks/55880
